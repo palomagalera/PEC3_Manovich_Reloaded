@@ -57,7 +57,7 @@ Entonces, como podemos ver este es otro claro ejemplo de medio híbrido, según 
 
  1. XATAKA. *"Ikea Place, su aplicación de realidad aumentada para decorar tu casa llega a los móviles Android con ARCore"*. Cosmos. [fecha de actualización:  20 de marzo 2018] [en línea]. Disponible en: https://www.xatakandroid.com/aplicaciones-android/ikea-place-su-aplicacion-de-realidad-aumentada-para-decorar-tu-casa-llega-a-los-moviles-android-con-arcore
  2. OTERO, Cesar. *"Ikea Place, la forma de comprar en el Ikea durante el Coronavirus"*. BETEACH. [fecha de actualización: 9 de junio 2020 ] [en línea]. Disponible en: https://as.com/meristation/2020/06/09/betech/1591739413_806629.html
- 3. ADELL, Ferran. *"Remediación, multimedia e hibridación de los medios"*. [en línea]. Disponible en: http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/
+ 3. ADELL, Ferran. *"Remediación, multimedia e hibridación de los medios"*. (2014) [en línea]. Disponible en: http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/
  4. LEÓN, Jonathan. *"Qué son los servidores roleplay de GTA V, por qué se han vuelto tan populares y cómo empezar a jugar"*.  Vida Extra. [fecha de actualización: 11 de julio 2020 ] [en línea]. Disponible en: https://www.vidaextra.com/juegos-online/que-servidores-roleplay-gta-v-que-se-han-vuelto-populares-como-empezar-a-jugar
  5. Wikipedia. "*Juego de rol*". [fecha de actualización: 4 de noviembre 2021] [en línea]. Disponible en: https://es.wikipedia.org/wiki/Juego_de_rol
- 6. MANOVICH, Lev. *El software toma el mando*. 2013. [libro digital] [en línea]. 
+ 6. MANOVICH, Lev. *El software toma el mando*. (2013) [libro digital] [en línea]. 
