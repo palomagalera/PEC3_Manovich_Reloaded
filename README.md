@@ -6,6 +6,7 @@ Autora: Paloma Galera Rodríguez
 Fecha de publicación: 11/12/2021
 
 ![enter image description here](https://img.huffingtonpost.com/asset/5ebacf053000001d19155da4.jpeg?ops=scalefit_630_noupscale)
+
 Fuente: METAMORWORKS.
 
 # Introducción
